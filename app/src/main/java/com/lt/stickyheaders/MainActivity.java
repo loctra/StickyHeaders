@@ -3,6 +3,8 @@ package com.lt.stickyheaders;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.lt.stickyheader.StickyRecyclerHeadersDecoration;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
